@@ -6,7 +6,7 @@ import (
 	"os"
 )
 
-//Create a folder (that I called Resources) inside your directory.
+//Create a folder (that I called Resources) inside your root directory.
 //Put all your images, JS scripts and CSS stylesheets into the folder "Resources", (keep the rest you want to serve dynamically such as the html files within the root folder).
 
 const ResourceDir = "/Resources/"
