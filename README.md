@@ -8,7 +8,7 @@ This project is a simple web server implemented in Go (Golang). It serves static
 - Simple Setup: Minimal setup required, easy to start and test.
 
 ## Security Notice
-This server implementation is intended for educational purposes and not designed with security features suitable for a production environment. It lacks measures such as HTTPS, input sanitization, and authentication, which are critical for real-world applications. Use this server only in a safe, controlled setting. 
+I know you can probably tell but this server implementation is intended for educational purposes and not designed with security features suitable for a production environment. It lacks measures such as HTTPS, input sanitization, and authentication, which are critical for real-world applications. Use this server only in a safe, controlled setting. 
 
 ## Troubleshooting Rendering Issues
 If CSS or JavaScript is not rendering correctly, make sure:
